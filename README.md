@@ -3,7 +3,7 @@
 Este repositorio contiene mis primeras practicas con **Git y GitHub**.
 
 ## Contenido
-- Una ficha con informacion demi equipo.
+- Una ficha con información de mi equipo.
 - Una lista de programas instalados.
 
 ## Objetivo
